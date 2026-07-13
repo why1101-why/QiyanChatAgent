@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./build/icon.png" width="96" alt="栖言 Qiyan 图标"><img width="1024" height="1024" alt="download" src="https://github.com/user-attachments/assets/1cc865ce-6a2c-4f7b-b5dc-aade98a8e721" />
+  <img width="96" height="96" alt="download" src="https://github.com/user-attachments/assets/1cc865ce-6a2c-4f7b-b5dc-aade98a8e721" />
 
 </p>
 
