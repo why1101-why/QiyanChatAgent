@@ -19,7 +19,7 @@
 - 设置中心包含供应商、功能模型、安全与上下文、提示词、外观、数据管理和关于；通知入口可随时回看版本说明与使用指南。
 - API Key 由 Electron `safeStorage` 使用当前 Windows 用户的 DPAPI 加密，不写入导出备份。
 
-<img width="636" height="286" alt="image" src="https://github.com/user-attachments/assets/8efe8a56-ab9b-4ff5-9ef9-d8d07d96a5bf" />
+<img width="636" height="386" alt="image" src="https://github.com/user-attachments/assets/8efe8a56-ab9b-4ff5-9ef9-d8d07d96a5bf" />
 
 ## v0.5.0 更新
 
