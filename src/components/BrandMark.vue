@@ -1,0 +1,34 @@
+<script setup lang="ts">
+withDefaults(defineProps<{ size?: number; title?: string }>(), {
+  size: 36,
+  title: ''
+})
+</script>
+
+<template>
+  <svg
+    class="brand-symbol"
+    :width="size"
+    :height="size"
+    viewBox="0 0 512 512"
+    role="img"
+    :aria-hidden="title ? undefined : 'true'"
+    :aria-label="title || undefined"
+  >
+    <rect width="512" height="512" rx="112" fill="#0fa968" />
+    <circle
+      cx="256"
+      cy="256"
+      r="116"
+      fill="none"
+      stroke="#fff"
+      stroke-width="52"
+      stroke-linecap="round"
+      pathLength="360"
+      stroke-dasharray="58 32"
+      transform="rotate(-74 256 256)"
+    />
+    <path d="M328 328 394 394" fill="none" stroke="#fff" stroke-width="52" stroke-linecap="round" />
+    <path d="m256 205 14 37 37 14-37 14-14 37-14-37-37-14 37-14Z" fill="#d8f9e8" />
+  </svg>
+</template>
