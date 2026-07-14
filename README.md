@@ -1,4 +1,5 @@
 # 栖言 Qiyan
+<img width="76" height="76" alt="download" src="https://github.com/user-attachments/assets/e27f42f2-06da-429d-a4b2-035227e572c5" />
 
 让对话、灵感和文档安静地落在本机。栖言是一款本地优先的 Windows AI 工作台，包含 AI 聊天、灵感笔记、哄哄模拟器和 ChatPDF 四项核心功能。
 
